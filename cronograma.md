@@ -1,9 +1,6 @@
 # Horario
 
  <table>
-      <caption>
-        Horário
-      </caption>
       <thead>
         <tr>
           <th>Horário</th>
