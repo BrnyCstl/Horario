@@ -48,6 +48,6 @@
 <H1>10/08/2026 Segunda-Feira</H1>
 <p>Hoje durante o NPI fiz alguns exercícios relacionados a Python pois não possuía nenhum exercício de POO, estudei sobre os laços de repetições, especificamente o FOR e fiz alguns exercícios utilizando esse laço, travei em um exercício especifico sobre números primos, fiz também o relatório do londrinense de hoje </p>
 
-<h1>11/08/2026</h1>
+<h1>11/08/2026 Terça-Feira</h1>
 <p>Hoje durante o NPI realizei a monitoria do pensamento computacional, no tempo restante realizei os relatorios faltantes e fiz as atividades da materia de POO que foram passadas na segunda feira</p>
 
