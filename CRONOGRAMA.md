@@ -51,3 +51,6 @@
 <h1>11/08/2026 Terça-Feira</h1>
 <p>Hoje durante o NPI realizei a monitoria do pensamento computacional, no tempo restante realizei os relatorios faltantes e fiz as atividades da materia de POO que foram passadas na segunda feira</p>
 
+<h1>12/08/2026 Quarta-Feira</h1>
+<p>Hoje durante o NPI realizei alguns exercicios de python referentes ao loop while, nao consegui finalizar os exercicios desse módulo pois travei em um especifico relacionado à fatoriais</p>
+
