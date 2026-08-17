@@ -54,3 +54,8 @@
 <h1>12/08/2026 Quarta-Feira</h1>
 <p>Hoje durante o NPI realizei alguns exercicios de python referentes ao loop while, nao consegui finalizar os exercicios desse módulo pois travei em um especifico relacionado à fatoriais</p>
 
+<hr></hr>
+
+<h1>17/08/2026 Segunda-Feira</h1>
+<p>Hoje durante o horário do NPI, por estar sem atividades relacionadas à faculdade eu trabalhei emitindo notas fiscais em programa para meu trabalho, logo após fui dar monitoria para o Londrinense Tech, e fiz o relatório do dia dentro do google sites</p>
+
