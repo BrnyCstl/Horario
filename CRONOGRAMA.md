@@ -59,3 +59,5 @@
 <h1>17/08/2026 Segunda-Feira</h1>
 <p>Hoje durante o horário do NPI, por estar sem atividades relacionadas à faculdade eu trabalhei emitindo notas fiscais em programa para meu trabalho, logo após fui dar monitoria para o Londrinense Tech, e fiz o relatório do dia dentro do google sites</p>
 
+<h1>18/08/2026 Terça-Feira</h1>
+<p>Hoje durante o NPI realizei a monitoria do pensamento computacional, logo após esse momento atualizei meu portifólio com os relatórios faltantes e finalizei uma lista de um dos trabalhos de matemática refente a escalonamento de matrizes</p>
