@@ -61,3 +61,6 @@
 
 <h1>18/08/2026 Terça-Feira</h1>
 <p>Hoje durante o NPI realizei a monitoria do pensamento computacional, logo após esse momento atualizei meu portifólio com os relatórios faltantes e finalizei uma lista de um dos trabalhos de matemática refente a escalonamento de matrizes</p>
+
+<h1>19/08/2026 Quarta-Feira</h1>
+<p>Hoje durante o NPI realizei os exercícios faltantes da parte inicial de while do curso em vídeo, realizei exercícios referentes à matéria de POO na faculdade e revisei os conteúdos para tirar as dúvidas, fiz commit dos exercícios de Python e do trabalho 6 de POO</p>
