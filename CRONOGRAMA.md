@@ -64,3 +64,8 @@
 
 <h1>19/08/2026 Quarta-Feira</h1>
 <p>Hoje durante o NPI realizei os exercícios faltantes da parte inicial de while do curso em vídeo, realizei exercícios referentes à matéria de POO na faculdade e revisei os conteúdos para tirar as dúvidas, fiz commit dos exercícios de Python e do trabalho 6 de POO</p>
+
+<hr>
+<H1>24/08/2026 Segunda-Feira</H1>
+<p>Hoje durante o horário do NPI finalizei o mundo 2 de Python e dei introdução ao mundo 3, fiz a monitoria do Londrinense Tech e fiz o relátorio do dia, entreguei os reatórios da semana passada que estavam atrasados  </p>
+
