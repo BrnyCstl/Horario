@@ -69,3 +69,6 @@
 <H1>24/08/2026 Segunda-Feira</H1>
 <p>Hoje durante o horário do NPI finalizei o mundo 2 de Python e dei introdução ao mundo 3, fiz a monitoria do Londrinense Tech e fiz o relátorio do dia, entreguei os reatórios da semana passada que estavam atrasados  </p>
 
+<h1>25/08/2026 Terça-Feira</h1>
+<p>Hoje durante o NPI realizei a monitoria do pensamento computacional, depois atualizei meu portifólio com os relatórios faltantes que realizei essa semana e iniciei uma nova atividade de Java passada pelo professor de POO marcelo</p>
+
