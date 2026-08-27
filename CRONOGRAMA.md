@@ -72,3 +72,6 @@
 <h1>25/08/2026 Terça-Feira</h1>
 <p>Hoje durante o NPI realizei a monitoria do pensamento computacional, depois atualizei meu portifólio com os relatórios faltantes que realizei essa semana e iniciei uma nova atividade de Java passada pelo professor de POO marcelo</p>
 
+<h1>26/08/2026 Quarta-Feira</h1>
+<p>Hoje a UniFil estava sem internet então finalizei as atividades de POO e no restante do dia fiquei impossibilitado de fazer algo</p>
+
