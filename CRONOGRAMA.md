@@ -75,3 +75,8 @@
 <h1>26/08/2026 Quarta-Feira</h1>
 <p>Hoje a UniFil estava sem internet então finalizei as atividades de POO e no restante do dia fiquei impossibilitado de fazer algo</p>
 
+<h1>27/08/2026 Quinta-Feira</h1>
+<p>Hoje por conta da falta de internet novamente não pude realizar muita coisa, fiz alguns exercicios de python mas a internet acabou na hora de dar commit e push</p>
+
+<h1>28/06/2026 Sexta-Feira</h1>
+<p>Hoje deu inicio o novo projeto de extensão Conexão Tech do qual faço parte, sendo assim dei monitoria na primeira aula de Cambé, chegando na UniFil dei commit nos exercícios de Python realizados ontem</p>
