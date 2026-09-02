@@ -80,3 +80,16 @@
 
 <h1>28/06/2026 Sexta-Feira</h1>
 <p>Hoje deu inicio o novo projeto de extensão Conexão Tech do qual faço parte, sendo assim dei monitoria na primeira aula de Cambé, chegando na UniFil dei commit nos exercícios de Python realizados ontem</p>
+
+<hr>
+
+<h1>31/08/2026 Segunda-Feira</h1>
+<p>Hoje durante o horário do NPI, finalizei atividades relacionadas a POO em Java como trabalho, após isso fui realizar a monitoria do Londrinense Tech</p>
+
+<h1>01/08/2026 Terça-Feira</h1>
+<p>Hoje durante o NPI realizei a monitoria do pensamento computacional, depois disso estudei referente ao conteúdo de sistemas lineares para matéria de Tópicos de Algebra Linear na faculdade</p>
+
+<h1>02/08/2026 Quarta-Feira</h1>
+<p>Hoje durante o NPI realizei os relatórios dos dias 31/08 e 01/09, também estudei e revisei os conteúdos de POO para a prova que será realizada semana que vem</p>
+
+
